@@ -15,3 +15,4 @@ var obj = {
   obj.inner['methodB'](); // { methodB: f }         ( === obj.inner)
   obj['inner'].methodB(); // { methodB: f }         ( === obj.inner)
   obj['inner']['methodB'](); // { methodB: f }      ( === obj.inner)
+  
