@@ -23,4 +23,3 @@ var copyObject = function(target) {
   
   user2.urls.blog = '';
   console.log(user.urls.blog === user2.urls.blog); // false
-  
