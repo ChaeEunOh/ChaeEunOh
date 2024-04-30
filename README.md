@@ -1,4 +1,4 @@
-# Hi😄😄 I'm ChaeEunOh😄😄
+# 😄😄 Hi I'm ChaeEunOh 😄😄
 
 ## 🌱 Chap. 1
 1-1) 변수 선언(variable)
