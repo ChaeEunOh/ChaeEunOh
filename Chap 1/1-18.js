@@ -22,3 +22,4 @@ var copyObjectViaJSON = function(target) {
   
   console.log(obj); // { a: 1. b: { c: null, d: [1, 3], func1: f() }, func2: f() }
   console.log(obj2); // { a: 3. b: { c: 4,    d: [1, 2] } }
+  
