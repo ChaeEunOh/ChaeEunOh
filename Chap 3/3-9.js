@@ -13,3 +13,4 @@ var obj1 = {
     },
   };
   obj1.outer();
+  
