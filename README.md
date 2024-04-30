@@ -1,5 +1,14 @@
-### Hi there 👋
-
+### Hi I'm ChaeEunOh.
+## Chap 1
+🌱 1-1) 변수 선언(variable)
+🌱 1-2) 변수 선언과 할당을 한 문장으로 표현 가능.
+🌱 1-3) 불변성: 문자열 값과 숫자 값은 한 번 만든 값을 변경할 수 없음.
+🌱 1-4) 참조형 데이터의 할당
+🌱 1-5) 참조형 데이터의 프로퍼티 재할당
+🌱 1-6) 참조형 데이터의 프로퍼티에 다시 참조형 데이터를 할당하는 경
+🌱 1-7) 변수 복사
+🌱 1-8) 변수 복사 이후 값 변경 결과 비교 - 객체의 프로퍼티 변경 시
+🌱 1-9) 변수 복사 이후 값 변경 결과 비교
 <!--
 **ChaeEunOh/ChaeEunOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
