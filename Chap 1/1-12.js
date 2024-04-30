@@ -5,3 +5,4 @@ var copyObject = function(target) {
     }
     return result;
   };
+  
