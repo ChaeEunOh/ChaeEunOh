@@ -25,3 +25,4 @@ var copyObjectDeep = function(target) {
   
   console.log(obj); // { a: 1. b: { c: null, d: [1, 3] } }
   console.log(obj2); // { a: 3. b: { c: 4, d: { 0: 1, 1: 2 } } }
+  
