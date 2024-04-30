@@ -16,3 +16,4 @@ var user = {
   }
   console.log(user.name, user2.name); // Jung Jung
   console.log(user === user2); // true
+  
