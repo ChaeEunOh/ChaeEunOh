@@ -19,3 +19,4 @@ var copyObject = function(target) {
   }
   console.log(user.name, user2.name); // Jaenam Jung
   console.log(user === user2); // false
+  
