@@ -9,3 +9,4 @@ numbers.forEach(function(number) {
   }
 });
 console.log(max, min); // 45 3
+
