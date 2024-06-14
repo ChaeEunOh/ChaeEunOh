@@ -4,3 +4,4 @@ var Person = function(name) {
   Person.prototype.getName = function() {
     return this._name;
   };
+  
