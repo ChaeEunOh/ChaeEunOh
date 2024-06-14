@@ -7,3 +7,4 @@ var Grade = function() {
   };
   Grade.prototype = [];
   var g = new Grade(100, 80);
+  
